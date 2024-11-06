@@ -2,10 +2,11 @@
 Object-centric Behavioural Reasoner from Pixels
 
 ### #2 3D objects
-| |
+| | |
 |:-------------------------:|:-------------------------:|
 |OBR execution|Desired idealized state|
-| ![OBR execution](images/zz_gif-2.gif)|![Desired idealized state](images/zz_goal-2.gif)|
+| ![OBR execution](images/zz_gif-2.gif) | ![Desired idealized state](images/zz_goal-2.gif)|
+
 
 
 
