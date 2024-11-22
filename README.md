@@ -10,7 +10,7 @@ _Ruben van Bergen1, Justus Hueboter1 & Pablo Lanillos1,2 (2024). "Object-centric
 
 
 ### OBR deep learning architecture
-<img src="images/OBR-architecture.png" width="200px">
+<img src="images/OBR-architecture.png" width="400px">
 
 ### #2 3D objects
 |OBR execution|Desired idealized goal|
