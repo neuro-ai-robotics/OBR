@@ -9,8 +9,10 @@ _Ruben van Bergen1, Justus Hueboter1 & Pablo Lanillos1,2 (2024). "Object-centric
 2. Neuro AI and Robotics (NAIR) Group, Cajal International Neuroscience Center, Spanish National Research Council, Madrid, Spain
 
 
-### OBR deep learning architecture
+## OBR deep learning architecture
 <img src="images/OBR-architecture.png" width="800px">
+
+## Results
 
 ### #2 3D objects
 |OBR execution|Desired idealized goal|
