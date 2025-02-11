@@ -1,7 +1,7 @@
 # OBR
 **Object-centric Behavioural Reasoner from Pixels**
 
-Code and results from the paper (under review): 
+Code and results from the paper (under review, will be fully open uppon acceptance): 
 
 _Ruben van Bergen1, Justus Hueboter1 & Pablo Lanillos1,2 (2024). "Object-centric proto-symbolic behavioural reasoning from pixels"_
 
