@@ -10,11 +10,16 @@ _Ruben van Bergen1, Justus Hueboter1 & Pablo Lanillos1,2 (2024). "Object-centric
 
 
 This work has been funded by the SPIKEFERENCE project, co-funded by the Human Brain Project (HBP) Specific Grant Agreement 3 (ID: 945539).
+- Preprint: https://arxiv.org/pdf/2411.17438
+- Access to the full code and enviroment: https://github.com/rubvber/OBR
 
 ## OBR deep learning architecture
 <img src="images/OBR-architecture.png" width="800px">
 
+## Learned rules
+
 ## Results
+Here we describe some of the executions of the OBR with 3D objects.
 
 ### #2 3D objects
 |OBR execution|Desired idealized goal|
