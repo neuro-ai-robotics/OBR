@@ -17,6 +17,8 @@ This work has been funded by the SPIKEFERENCE project, co-funded by the Human Br
 <img src="images/OBR-architecture.png" width="800px">
 
 ## Learned rules
+<img src="images/conditional-rules.jpg">
+<img src="images/composition.jpg">
 
 ## Results
 Here we describe some of the executions of the OBR with 3D objects.
