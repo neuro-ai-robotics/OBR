@@ -23,7 +23,7 @@ Type of conditional behaviours learnt
 <img src="images/composition.jpg" width="600px">
 
 ## Results
-Here we describe some of the executions of the OBR with 3D objects.
+Here we describe some of the executions of the OBR with 3D objects with animations.
 
 ### #2 3D objects
 |OBR execution|Desired idealized goal|
